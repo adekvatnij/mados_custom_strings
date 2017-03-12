@@ -288,7 +288,7 @@
     <string name="TDD_Btn_SET">SET</string>
     <!-- TDD Band Select end -->
 
-    <string name="set_success_title">Настройка успена</string>
+    <string name="set_success_title">Настройка успешна</string>
 
     <!-- > App Ops -->
     <!-- [CHAR LIMIT=NONE] App ops settings title, on main settings screen. If clicked, the user is taken to a settings screen for app operations -->
@@ -413,7 +413,7 @@
     <string name="navigation_bar_reset_message">Удалить текущие настройки и восстановить расположение по умолчанию?</string>
 
     <string name="nav_arrow_keys_title">Показывать стрелки курсора</string>
-    <string name="nav_arrow_keys_summary">Показывать стрелки влево и вправо во время ниабора текста</string>
+    <string name="nav_arrow_keys_summary">Показывать стрелки влево и вправо во время набора текста</string>
 
     <string name="nav_pixel_nav_title">Включить пиксельный дизайн</string>
     <string name="nav_pixel_nav_summary">Включает пиксельный стиль кнопки Домой</string>
@@ -496,7 +496,7 @@
     <string name="shortcut_action_lastapp">Последнее приложение</string>
     <string name="shortcut_action_menu_big">Большое меню</string>
     <string name="shortcut_action_notifications">Уведомления</string>
-    <string name="shortcut_action_qs">панель быстрых настроек</string>
+    <string name="shortcut_action_qs">Панель быстрых настроек</string>
     <string name="shortcut_action_smart">Умное появление</string>
     <string name="shortcut_action_assist">Поиск</string>
 
